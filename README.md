@@ -1,11 +1,16 @@
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/andrei-kurka/" target="_blank">Andrei</a>
+
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+
 <h3 align="center">Full Stack developer.</h3>
+
 <div id="badges" align="center">
+
   <a href="https://www.linkedin.com/in/andrei-kurka/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=Andrey1914&style=flat-square&color=blue" alt=""/>
 </div>
@@ -18,18 +23,41 @@
 ### :man_technologist: About Me :
 I am a Full Stack Developer from Ukraine.
 
+
+<!--- :seedling: I’m currently learning React Native.-->
+
+<!--- :zap: In my free time, I read articles on GraphQL.-->
+
+```javascript
+const Andrey = {
+  code: ["Javascript"],
+  technologies: {
+    frontEnd: {
+      js: ["React", "Redux-Toolkit", "React Native"],
+      css: ["Styled-components", "Material UI", "SCSS"],
+    },
+    backEnd: {
+      js: ["Node", "Express", "GraphQL"],
+    },
+    devOps: ["Docker🐳"],
+    databases: ["Mongo"],
+    misc: ["Firebase", "Git", "Figma"],
+    learning: ["TypeScript"],
+  },
+  architecture: ["Progressive web applications", "Single page applications"],
+};
+```
+
 - :telescope: I’m looking for a job as a junior FrontEnd developer with ReactJS.
-
-- :seedling: I’m currently learning React Native.
-
-- :zap: In my free time, I read articles on GraphQL.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andrei-kurka/)
 
-
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+<details>
+<summary><b> :hammer_and_wrench: Languages and Tools :</b></summary>
+<!--### :hammer_and_wrench: Languages and Tools :-->
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" **alt="Slack" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>
@@ -57,17 +85,29 @@ I am a Full Stack Developer from Ukraine.
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" **alt="Firebase" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" **alt="Android Studio" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" title="Yarn" **alt="Yarn" width="40" height="40"/>
-</div>
+  </div>
+</details>
 
 ---
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Student+of+the+GOIT+Academy.)](https://git.io/typing-svg)-->
-### :fire: My Stats :
+<!--### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Andrey1914&theme=light&background=ffffff)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrey1914&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrey1914&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Andrey1914&theme=solarized_dark)-->
 
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andrey1914&theme=tokyolight&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrey1914&theme=tokyolight&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</details>
+
+<details>	
+  <summary><b>🔥 Github Streaks</b></summary>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Andrey1914&theme=tokyolight&hide_border=true" />
+</details>
 
 
 <!--
