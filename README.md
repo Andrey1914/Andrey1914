@@ -11,9 +11,17 @@
   </a>
 </div>
 
+
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=Andrey1914&style=flat-square&color=blue" alt=""/>
+  
 </div>
+
+<div id="badges" align="center">
+<img height="220em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Andrey1914" />
+</div>
+
+---
 
 <!--<div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -104,10 +112,12 @@ const Andrey = {
 </details>
 
 <details>	
-  <summary><b>🔥 Github Streaks</b></summary>
-
+<summary><b>🔥 Github Streaks</b></summary>
+<img height="220em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Andrey1914" />
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Andrey1914&theme=tokyolight&hide_border=true" />
 </details>
+
+
 
 
 <!--
