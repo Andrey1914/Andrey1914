@@ -113,7 +113,7 @@ const Andrey = {
 
 <details>	
 <summary><b>🔥 Github Streaks</b></summary>
-<img height="220em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Andrey1914" />
+<!--<img height="220em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Andrey1914" />-->
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Andrey1914&theme=tokyolight&hide_border=true" />
 </details>
 
