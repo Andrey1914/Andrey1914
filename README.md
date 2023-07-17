@@ -36,6 +36,7 @@ I am a Full Stack Developer from Ukraine.
 
 <!--- :zap: In my free time, I read articles on GraphQL.-->
 
+<!---
 ```javascript
 const Andrey = {
   code: ["Javascript"],
@@ -55,6 +56,7 @@ const Andrey = {
   architecture: ["Progressive web applications", "Single page applications"],
 };
 ```
+-->
 
 - :telescope: I’m looking for a job as a junior FrontEnd developer with ReactJS.
 
