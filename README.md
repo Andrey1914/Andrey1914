@@ -29,7 +29,7 @@
 
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer from Ukraine.
+I am a Full Stack Developer.
 
 
 <!--- :seedling: I’m currently learning React Native.-->
